@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hello World ! 
+  
+I am a Final Year Computer Application (MCA) Student at National Institute of Technology, Jamshedpur.
 
-<!--
-**ShrutiAgrawal2232/shrutiagrawal2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Full Stack Development.
+- 👯 I’m looking to collaborate on Web Development Projects.
+- 📫 How to reach me:
+[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/agrawalshruti2232) 
 
-Here are some ideas to get you started:
+---
+#### I'm currently working on
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shrutiagrawal2232&repo=plant-leaf-identification)](https://github.com/ShrutiAgrawal2232/plant-leaf-identification)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+   
+![Shruti Agrawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiagrawal2232&show_icons=true&theme=radical)
