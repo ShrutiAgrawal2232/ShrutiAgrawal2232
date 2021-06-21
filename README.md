@@ -12,5 +12,3 @@ I am a Final Year Computer Application (MCA) Student at National Institute of Te
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shrutiagrawal2232&repo=plant-leaf-identification)](https://github.com/ShrutiAgrawal2232/plant-leaf-identification)
 
 ----
-   
-![Shruti Agrawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiagrawal2232&show_icons=true&theme=radical)
