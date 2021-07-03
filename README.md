@@ -10,5 +10,6 @@ I am a Final Year Computer Application (MCA) Student at National Institute of Te
 ---
 #### I'm currently working on
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shrutiagrawal2232&repo=plant-leaf-identification)](https://github.com/ShrutiAgrawal2232/plant-leaf-identification)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shrutiagrawal2232&repo=shrutiagrawal2232.github.io)](https://github.com/ShrutiAgrawal2232/shrutiagrawal2232.github.io)
 
 ----
