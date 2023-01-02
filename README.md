@@ -1,6 +1,6 @@
 ### 👋 Hello World ! 
   
-I am a Final Year Computer Application (MCA) Student at National Institute of Technology, Jamshedpur.
+I am a Software Engineer at Koo India.
 
 - 🌱 I’m currently learning Full Stack Development.
 - 👯 I’m looking to collaborate on Web Development Projects.
